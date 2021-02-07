@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Info Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-11 14:31+0000\n"
+"PO-Revision-Date: 2017-03-11 14:33+0000\n"
+"Last-Translator: admin <test@hotmail.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: simple-contact-info-widget.php:206
+msgid "Icon effects:"
+msgstr "Ikoneffekte"
+
+#: simple-contact-info-widget.php:246
+msgid "Only use username for social media, <b>dont</b> put the whole url."
+msgstr "Verwenden Sie nur Benutzernamen für Social Media."
+
+#: simple-contact-info-widget.php:166
+msgid "Company:"
+msgstr "Firma:"
+
+#: simple-contact-info-widget.php:170
+msgid "About:"
+msgstr "Etwa:"
+
+#: simple-contact-info-widget.php:174
+msgid "Address:"
+msgstr "Adresse:"
+
+#: simple-contact-info-widget.php:178
+msgid "City:"
+msgstr "Stadt:"
+
+#: simple-contact-info-widget.php:182
+msgid "Zip Code:"
+msgstr "Postleitzahl:"
+
+#: simple-contact-info-widget.php:186
+msgid "Email:"
+msgstr "Email:"
+
+#: simple-contact-info-widget.php:190
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: simple-contact-info-widget.php:194
+msgid "Mobile:"
+msgstr "Handy:"
+
+#: simple-contact-info-widget.php:198
+msgid "Fax:"
+msgstr "Fax:"
+
+#: simple-contact-info-widget.php:202
+msgid "Website:"
+msgstr "Webseite:"
+
+#: simple-contact-info-widget.php:218
+msgid "Icon color:"
+msgstr "Ikon farbe:"
+
+#: simple-contact-info-widget.php:223
+msgid "Text Color:"
+msgstr "Text farbe:"
+
+#: simple-contact-info-widget.php:231
+msgid "Whatsapp:"
+msgstr "Whatsapp:"
+
+#: simple-contact-info-widget.php:235
+msgid "Skype:"
+msgstr "Skype:"
+
+#: simple-contact-info-widget.php:239
+msgid "Facebook Username:"
+msgstr "Facebook benutzername:"
+
+#: simple-contact-info-widget.php:243
+msgid "Twitter Username:"
+msgstr "Twitter benutzername:"
+
+#. Name of the plugin
+msgid "Contact Info Widget"
+msgstr "Contact Info Widget"
+
+#. Description of the plugin
+msgid "A  simple Wordpress widget that shows contact info."
+msgstr "Ein einfaches Wordpress plugin, das Kontaktinformationen zeigt."
+
+#. URI of the plugin
+msgid "https://riotweb.nl"
+msgstr "https://riotweb.nl"
+
+#. Author of the plugin
+msgid "Riotweb.nl"
+msgstr "Riotweb.nl"
+
+#. Author URI of the plugin
+msgid "https://riotweb.nl/plugins"
+msgstr "https://riotweb.nl/plugins"

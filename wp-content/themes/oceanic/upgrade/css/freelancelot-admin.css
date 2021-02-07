@@ -1,0 +1,41 @@
+.freelancelot-upgrade-page-wrap {
+    max-width: 1300px;
+}
+.freelancelot-upgrade-page-wrap p {
+	margin-left: 10px;
+}
+.freelancelot-upgrade-page-wrap table p {
+	margin-left: 0;
+}
+.freelancelot-upgrade-page-wrap .button.upgrade {
+	background-color: #01B6AD;
+	color: #FFFFFF;
+	box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+	box-shadow: none;
+	border-color: #01B6AD;
+}
+
+.freelancelot-upgrade-page-wrap .button.upgrade:hover {
+	border-color: #019289;
+	background-color: #019289;
+}
+
+.freelancelot-upgrade-page-wrap #theme-settings-title a {
+    background-image: url(../images/freelancelot-logo.png);
+    display: block;
+    width: 359px;
+    height: 75px;
+	margin-left: 10px;
+}
+.freelancelot-page-description {
+    padding: 20px 0 0;
+}
+.freelancelot-upgrade-page-wrap .description {
+    padding: 0 0 20px;
+}
+.freelancelot-page-img {
+    margin: 0 0 25px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+    height: auto;
+}

@@ -1,0 +1,88 @@
+/*--------------------------------------------------------------
+Oceanic - Header Standard Styling
+--------------------------------------------------------------*/
+
+.oceanic-header-layout-standard .site-top-bar-left {
+    float: left;
+    padding: 3px 0;
+    min-height: 25px;
+    width: 50%;
+    background-color: #ffffff;
+    position: relative;
+    z-index: 99;
+}
+.oceanic-header-layout-standard .site-top-bar-left ul li:first-child a {
+    padding: 0 10px 0 0;
+}
+.oceanic-header-layout-standard .site-top-bar-left ul li:last-child {
+    box-shadow: none;
+}
+.oceanic-header-layout-standard .site-top-bar-left ul li:last-child a {
+    padding: 0 0 0 6px;
+}
+.oceanic-header-layout-standard .site-top-bar-left-text {
+    font-size: 13px;
+    margin: 0 1px 5px 0;
+	text-align: right;
+}
+
+.oceanic-header-layout-standard .site-top-bar-right {
+    float: right;
+    font-size: 14px;
+    padding: 1px 0 3px;
+    width: 50%;
+    text-align: right;
+    background-color: #ffffff;
+    position: relative;
+    z-index: 99;
+}
+.oceanic-header-layout-standard .site-top-bar-right i {
+    margin: 0 0 0 8px;
+}
+
+.oceanic-header-layout-standard .site-header-left {
+    float: left;
+    min-height: 91px;
+}
+.oceanic-header-layout-standard .site-header-left img {
+    display: block;
+    margin: 0 auto;
+}
+.oceanic-header-layout-standard .site-header-right {
+    float: right;
+    min-height: 91px;
+    padding: 30px 0 0;
+    font-size: 12px;
+}
+.oceanic-header-layout-standard .site-header-right-link {
+    box-shadow: 1px 0 0 rgba(0, 0, 0, 0.08);
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 0 0;
+    padding: 0px 8px 1px 0;
+    line-height: 14px;
+}
+.oceanic-header-layout-standard .site-header-right-link a {
+    padding: 1px 2px 0px;
+    border-radius: 3px;
+    
+    -webkit-transition: all 0.05s linear 0s;
+     -moz-transition: all 0.05s linear 0s;
+      -ms-transition: all 0.05s linear 0s;
+       -o-transition: all 0.05s linear 0s;
+          transition: all 0.05s linear 0s;
+}
+.oceanic-header-layout-standard .site-header-right .header-cart {
+	margin: -2px 0 0 0;
+}
+.oceanic-header-layout-standard .site-title {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0;
+    padding: 17px 0 0;
+}
+.oceanic-header-layout-standard .site-description {
+    margin: 0;
+    padding: 4px 0 0;
+    font-size: 17px;
+}

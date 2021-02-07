@@ -1,0 +1,67 @@
+
+#customize-theme-controls #accordion-section-colors h3:hover,
+#customize-theme-controls #accordion-section-oceanic-fonts h3:hover,
+#customize-theme-controls #accordion-section-oceanic-website h3:hover,
+#customize-theme-controls #accordion-section-oceanic-footer h3:hover,
+#customize-theme-controls #accordion-section-oceanic-header h3:hover,
+#customize-theme-controls #accordion-section-oceanic-mobile-menu h3:hover,
+#customize-theme-controls #accordion-section-oceanic-layout h3:hover,
+#customize-theme-controls #accordion-section-oceanic-slider h3:hover,
+#customize-theme-controls #accordion-section-oceanic-blog h3:hover,
+#customize-theme-controls #accordion-section-oceanic-social h3:hover {
+    background-color: #01B6AD;
+	color: #FFFFFF;
+}
+
+#customize-theme-controls #accordion-section-colors:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-fonts:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-website:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-footer:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-header:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-mobile-menu:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-layout:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-slider:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-blog:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-section-oceanic-social:hover>.accordion-section-title:after {
+	color: #FFFFFF !important;
+}
+
+#customize-theme-controls #accordion-section-colors.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-fonts.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-website.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-footer.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-header.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-mobile-menu.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-layout.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-slider.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-blog.control-section.open h3,
+#customize-theme-controls #accordion-section-oceanic-social.control-section.open h3 {
+    background-color: #01B6AD !important;
+	color: #FFFFFF;
+}
+
+.freelancelot-upsell {
+   padding: 10px 0 5px;
+}
+.freelancelot-upsell-title {
+   font-weight: 600;
+}
+.freelancelot-upsell-btn {
+	background-color: #01B6AD;
+	display: inline-block;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+	margin: 8px 0 0;
+	padding: 8px 20px 10px;
+	color: #ECECEC;
+	text-decoration: none;
+}
+.freelancelot-upsell-btn:hover {
+   background-color: #019289;
+   color: #FFF;
+}
+.freelancelot-upsell-desc {
+   font-size: 12px;
+   padding: 4px 0 0;
+}

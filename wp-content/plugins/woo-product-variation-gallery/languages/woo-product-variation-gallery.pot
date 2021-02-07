@@ -1,0 +1,268 @@
+# Copyright (C) 2020 WooCommerce Variation images gallery
+# This file is distributed under the same license as the WooCommerce Variation images gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Variation images gallery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Controllers/Hooks.php:126
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: ../app/Controllers/Hooks.php:148
+msgid "Add Gallery Images"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:17
+msgid "Please check PHP version requirement."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:19
+msgid "It's required to use latest version of PHP to use <strong>WooCommerce Product Variation Swatches</strong>."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:30
+msgid "WooCommerce"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:38
+msgid "<strong>WooCommerce Variation images gallery</strong> is an add-on of "
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:47
+msgid "Currently, you are using older version of WooCommerce. It's recommended to use latest version of WooCommerce to work with %s."
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:47, ../app/Controllers/SettingsAPI.php:76
+msgid "WooCommerce Variation images gallery"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:55
+msgid "Facing issue?"
+msgstr ""
+
+#: ../app/Controllers/Notifications.php:55
+msgid "Please open a support ticket."
+msgstr ""
+
+#: ../app/Controllers/ScriptLoader.php:79
+msgid "Choose Image"
+msgstr ""
+
+#: ../app/Controllers/ScriptLoader.php:80
+msgid "Add Images"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:50
+msgid "Settings"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:51
+msgid "Demo"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:52
+msgid "Documentation"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:53
+msgid "Get Pro"
+msgstr ""
+
+#: ../app/Controllers/SettingsAPI.php:60
+msgid "Variation Gallery"
+msgstr ""
+
+#: ../app/Helpers/Options.php:12
+msgid "General"
+msgstr ""
+
+#: ../app/Helpers/Options.php:13
+msgid "Simple change some visual styles"
+msgstr ""
+
+#: ../app/Helpers/Options.php:16
+msgid "Thumbnails Items per row"
+msgstr ""
+
+#: ../app/Helpers/Options.php:19
+msgid "Product Thumbnails Item Image"
+msgstr ""
+
+#: ../app/Helpers/Options.php:20
+msgid "Product Thumbnails Item Image. Default value is: %d. Limit: 2-8."
+msgstr ""
+
+#: ../app/Helpers/Options.php:27
+msgid "Thumbnails Gap"
+msgstr ""
+
+#: ../app/Helpers/Options.php:30
+msgid "Product Thumbnails Gap In Pixel"
+msgstr ""
+
+#: ../app/Helpers/Options.php:31
+msgid "Product Thumbnails Gap In Pixel. Default value is: %d. Limit: 0-20."
+msgstr ""
+
+#: ../app/Helpers/Options.php:39
+msgid "Gallery Width (Large Device)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:42
+msgid "Slider gallery width in % for large devices."
+msgstr ""
+
+#: ../app/Helpers/Options.php:43
+msgid "Slider Gallery Width in %%. Default value is: %d. Limit: 10-100."
+msgstr ""
+
+#: ../app/Helpers/Options.php:51
+msgid "Gallery Width (Medium Device)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:54
+msgid "Slider gallery width in px for medium devices, small desktop"
+msgstr ""
+
+#: ../app/Helpers/Options.php:55
+msgid "Slider gallery width in pixel for medium devices, small desktop. Default value is: 0. Limit: 0-1000. Media query (max-width : 992px)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:63
+msgid "Gallery Width (Small Device)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:66
+msgid "Slider gallery width in px for small devices, tablets"
+msgstr ""
+
+#: ../app/Helpers/Options.php:67
+msgid "Slider gallery width in pixel for medium devices, small desktop. Default value is: 720. Limit: 0-1000. Media query (max-width : 768px)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:75
+msgid "Gallery Width (Extra Small Device)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:78
+msgid "Slider gallery width in px for extra small devices, phones"
+msgstr ""
+
+#: ../app/Helpers/Options.php:79
+msgid "Slider gallery width in pixel for extra small devices, phones. Default value is: 320. Limit: 0-1000. Media query (max-width : 480px)"
+msgstr ""
+
+#: ../app/Helpers/Options.php:87
+msgid "Gallery Bottom Gap"
+msgstr ""
+
+#: ../app/Helpers/Options.php:90
+msgid "Slider gallery bottom margin in pixel"
+msgstr ""
+
+#: ../app/Helpers/Options.php:91
+msgid "Slider gallery bottom margin in pixel. Default value is: %d. Limit: 10-100."
+msgstr ""
+
+#: ../app/Helpers/Options.php:99
+msgid "Reset Variation Gallery"
+msgstr ""
+
+#: ../app/Helpers/Options.php:102
+msgid "Always Reset Gallery After Variation Select"
+msgstr ""
+
+#: ../app/Helpers/Options.php:109
+msgid "Advanced"
+msgstr ""
+
+#: ../app/Helpers/Options.php:110
+msgid "Advanced change some visual styles"
+msgstr ""
+
+#: ../app/Helpers/Options.php:113
+msgid "Zoom Gallery image"
+msgstr ""
+
+#: ../app/Helpers/Options.php:116, ../app/Helpers/Options.php:123
+msgid "Enable"
+msgstr ""
+
+#: ../app/Helpers/Options.php:120
+msgid "LightBox"
+msgstr ""
+
+#: ../app/Helpers/Options.php:131
+msgid "Thumbnail pro feature"
+msgstr ""
+
+#: ../app/Helpers/Options.php:135
+msgid "Preload Style"
+msgstr ""
+
+#: ../app/Helpers/Options.php:140
+msgid "Blur"
+msgstr ""
+
+#: ../app/Helpers/Options.php:141
+msgid "Fade"
+msgstr ""
+
+#: ../app/Helpers/Options.php:142
+msgid "Gray"
+msgstr ""
+
+#: ../app/Helpers/Options.php:146
+msgid "Zoom Button Position"
+msgstr ""
+
+#: ../app/Helpers/Options.php:151
+msgid "Top right"
+msgstr ""
+
+#: ../app/Helpers/Options.php:152
+msgid "Top left"
+msgstr ""
+
+#: ../app/Helpers/Options.php:153
+msgid "Bottom right"
+msgstr ""
+
+#: ../app/Helpers/Options.php:154
+msgid "Bottom left"
+msgstr ""
+
+#: ../app/Helpers/Options.php:161
+msgid "Tools"
+msgstr ""
+
+#: ../app/Helpers/Options.php:162
+msgid "Tools define some system tasks"
+msgstr ""
+
+#: ../app/Helpers/Options.php:168
+msgid ""
+"\n"
+"Enable to delete all data"
+msgstr ""
+
+#: ../app/Helpers/Options.php:170
+msgid "Enable / Disable Allow to delete all data for WooCommerce Product variation Gallery plugin during delete this plugin"
+msgstr ""
+
+#: ../app/Helpers/Options.php:176
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../app/Helpers/Options.php:177
+msgid "You can try our premium plugins"
+msgstr ""
